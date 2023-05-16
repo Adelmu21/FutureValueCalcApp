@@ -1,10 +1,5 @@
-# FutureValueCalcApp
-
-https://github-actions-workflow-021.azurewebsites.net/
-
-# TravelExperts
-> Website that features a Travel Website including a main page, a bookings page and a My bookings page to view bookings
-a login and register feature, in order to access the content of the both the bookings page and the mybookings page.
+# Future Value Calculator App
+> Website that features a an investment calculator app with validation added to give correct input to the entry boxes.
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -14,9 +9,8 @@ a login and register feature, in order to access the content of the both the boo
 * [Setup](#setup)
 
 ## General Information
-- Travel Website intented to allow users to view and add packages (a user would be the customer)
-- Intended to create a user experience to provide a platform that displays a product
-- Made as a final project for my class
+- Investment calculator app intended to calculate monthly investment contributed according to an annual interest rate over the course of 1 year up to a maximum.
+- Mock up how much would an estimate be of an investment over a period of time depending on interest.
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
@@ -45,11 +39,7 @@ Click <a href="https://github-actions-workflow-021.azurewebsites.net/">here<a> i
 
 ## Setup
 after downloading all files in the repo (Visual Studio was used to build and run the Web App)
-- then start TravelExpertsWorshop2.sln file
-- set TravelExpertsData library as Startup project
-- go to Project Manager Console and make sure the default project is set to TravelExpertsData
-- cope and paste this scaffold in PM console Scaffold-DbContext -Connection "Data Source=localhost\sqlexpress;Initial Catalog=TravelExperts;Integrated Security=True;Encrypt=False" -Provider Microsoft.EntityFrameworkCore.SqlServer -Context TravelExpertsContext -OutputDir "look up where the TravelExpertsData folder is, right click and copy as path to paste here" -DataAnnotations
-- now after it says complete make sure to set the TravelExperts project back as start up project
-- Run the program and you should be able to navigate trough the page
+- then start FutureValueApp.sln file
+- Run the program and you should be able to use the functions on the page
 
 ## Thank you for reading
