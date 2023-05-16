@@ -1,0 +1,93 @@
+C:\Users\admor\source\repos\FutureValueApp\FutureValueApp\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\admor\source\repos\FutureValueApp\FutureValueApp\bin\Debug\net7.0\appsettings.json
+C:\Users\admor\source\repos\FutureValueApp\FutureValueApp\bin\Debug\net7.0\FutureValueApp.staticwebassets.runtime.json
+C:\Users\admor\source\repos\FutureValueApp\FutureValueApp\bin\Debug\net7.0\FutureValueApp.exe
+C:\Users\admor\source\repos\FutureValueApp\FutureValueApp\bin\Debug\net7.0\FutureValueApp.deps.json
+C:\Users\admor\source\repos\FutureValueApp\FutureValueApp\bin\Debug\net7.0\FutureValueApp.runtimeconfig.json
+C:\Users\admor\source\repos\FutureValueApp\FutureValueApp\bin\Debug\net7.0\FutureValueApp.dll
+C:\Users\admor\source\repos\FutureValueApp\FutureValueApp\bin\Debug\net7.0\FutureValueApp.pdb
+C:\Users\admor\source\repos\FutureValueApp\FutureValueApp\obj\Debug\net7.0\FutureValueApp.csproj.AssemblyReference.cache
+C:\Users\admor\source\repos\FutureValueApp\FutureValueApp\obj\Debug\net7.0\FutureValueApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admor\source\repos\FutureValueApp\FutureValueApp\obj\Debug\net7.0\FutureValueApp.AssemblyInfoInputs.cache
+C:\Users\admor\source\repos\FutureValueApp\FutureValueApp\obj\Debug\net7.0\FutureValueApp.AssemblyInfo.cs
+C:\Users\admor\source\repos\FutureValueApp\FutureValueApp\obj\Debug\net7.0\FutureValueApp.csproj.CoreCompileInputs.cache
+C:\Users\admor\source\repos\FutureValueApp\FutureValueApp\obj\Debug\net7.0\FutureValueApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\admor\source\repos\FutureValueApp\FutureValueApp\obj\Debug\net7.0\FutureValueApp.RazorAssemblyInfo.cache
+C:\Users\admor\source\repos\FutureValueApp\FutureValueApp\obj\Debug\net7.0\FutureValueApp.RazorAssemblyInfo.cs
+C:\Users\admor\source\repos\FutureValueApp\FutureValueApp\obj\Debug\net7.0\staticwebassets\msbuild.FutureValueApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\admor\source\repos\FutureValueApp\FutureValueApp\obj\Debug\net7.0\staticwebassets\msbuild.build.FutureValueApp.props
+C:\Users\admor\source\repos\FutureValueApp\FutureValueApp\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.FutureValueApp.props
+C:\Users\admor\source\repos\FutureValueApp\FutureValueApp\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.FutureValueApp.props
+C:\Users\admor\source\repos\FutureValueApp\FutureValueApp\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\admor\source\repos\FutureValueApp\FutureValueApp\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\admor\source\repos\FutureValueApp\FutureValueApp\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\admor\source\repos\FutureValueApp\FutureValueApp\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\admor\source\repos\FutureValueApp\FutureValueApp\obj\Debug\net7.0\scopedcss\bundle\FutureValueApp.styles.css
+C:\Users\admor\source\repos\FutureValueApp\FutureValueApp\obj\Debug\net7.0\scopedcss\projectbundle\FutureValueApp.bundle.scp.css
+C:\Users\admor\source\repos\FutureValueApp\FutureValueApp\obj\Debug\net7.0\FutureValueApp.dll
+C:\Users\admor\source\repos\FutureValueApp\FutureValueApp\obj\Debug\net7.0\refint\FutureValueApp.dll
+C:\Users\admor\source\repos\FutureValueApp\FutureValueApp\obj\Debug\net7.0\FutureValueApp.pdb
+C:\Users\admor\source\repos\FutureValueApp\FutureValueApp\obj\Debug\net7.0\FutureValueApp.genruntimeconfig.cache
+C:\Users\admor\source\repos\FutureValueApp\FutureValueApp\obj\Debug\net7.0\ref\FutureValueApp.dll
+C:\Users\admor\source\repos\FutureValueApp mine\FutureValueApp\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\admor\source\repos\FutureValueApp mine\FutureValueApp\bin\Debug\net7.0\appsettings.json
+C:\Users\admor\source\repos\FutureValueApp mine\FutureValueApp\bin\Debug\net7.0\FutureValueApp.staticwebassets.runtime.json
+C:\Users\admor\source\repos\FutureValueApp mine\FutureValueApp\bin\Debug\net7.0\FutureValueApp.exe
+C:\Users\admor\source\repos\FutureValueApp mine\FutureValueApp\bin\Debug\net7.0\FutureValueApp.deps.json
+C:\Users\admor\source\repos\FutureValueApp mine\FutureValueApp\bin\Debug\net7.0\FutureValueApp.runtimeconfig.json
+C:\Users\admor\source\repos\FutureValueApp mine\FutureValueApp\bin\Debug\net7.0\FutureValueApp.dll
+C:\Users\admor\source\repos\FutureValueApp mine\FutureValueApp\bin\Debug\net7.0\FutureValueApp.pdb
+C:\Users\admor\source\repos\FutureValueApp mine\FutureValueApp\obj\Debug\net7.0\FutureValueApp.csproj.AssemblyReference.cache
+C:\Users\admor\source\repos\FutureValueApp mine\FutureValueApp\obj\Debug\net7.0\FutureValueApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admor\source\repos\FutureValueApp mine\FutureValueApp\obj\Debug\net7.0\FutureValueApp.AssemblyInfoInputs.cache
+C:\Users\admor\source\repos\FutureValueApp mine\FutureValueApp\obj\Debug\net7.0\FutureValueApp.AssemblyInfo.cs
+C:\Users\admor\source\repos\FutureValueApp mine\FutureValueApp\obj\Debug\net7.0\FutureValueApp.csproj.CoreCompileInputs.cache
+C:\Users\admor\source\repos\FutureValueApp mine\FutureValueApp\obj\Debug\net7.0\FutureValueApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\admor\source\repos\FutureValueApp mine\FutureValueApp\obj\Debug\net7.0\FutureValueApp.RazorAssemblyInfo.cache
+C:\Users\admor\source\repos\FutureValueApp mine\FutureValueApp\obj\Debug\net7.0\FutureValueApp.RazorAssemblyInfo.cs
+C:\Users\admor\source\repos\FutureValueApp mine\FutureValueApp\obj\Debug\net7.0\staticwebassets\msbuild.FutureValueApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\admor\source\repos\FutureValueApp mine\FutureValueApp\obj\Debug\net7.0\staticwebassets\msbuild.build.FutureValueApp.props
+C:\Users\admor\source\repos\FutureValueApp mine\FutureValueApp\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.FutureValueApp.props
+C:\Users\admor\source\repos\FutureValueApp mine\FutureValueApp\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.FutureValueApp.props
+C:\Users\admor\source\repos\FutureValueApp mine\FutureValueApp\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\admor\source\repos\FutureValueApp mine\FutureValueApp\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\admor\source\repos\FutureValueApp mine\FutureValueApp\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\admor\source\repos\FutureValueApp mine\FutureValueApp\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\admor\source\repos\FutureValueApp mine\FutureValueApp\obj\Debug\net7.0\scopedcss\bundle\FutureValueApp.styles.css
+C:\Users\admor\source\repos\FutureValueApp mine\FutureValueApp\obj\Debug\net7.0\scopedcss\projectbundle\FutureValueApp.bundle.scp.css
+C:\Users\admor\source\repos\FutureValueApp mine\FutureValueApp\obj\Debug\net7.0\FutureValueApp.dll
+C:\Users\admor\source\repos\FutureValueApp mine\FutureValueApp\obj\Debug\net7.0\refint\FutureValueApp.dll
+C:\Users\admor\source\repos\FutureValueApp mine\FutureValueApp\obj\Debug\net7.0\FutureValueApp.pdb
+C:\Users\admor\source\repos\FutureValueApp mine\FutureValueApp\obj\Debug\net7.0\FutureValueApp.genruntimeconfig.cache
+C:\Users\admor\source\repos\FutureValueApp mine\FutureValueApp\obj\Debug\net7.0\ref\FutureValueApp.dll
+C:\Users\admor\Desktop\GitHub projects\FutureValueApp mine\FutureValueApp\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\admor\Desktop\GitHub projects\FutureValueApp mine\FutureValueApp\bin\Debug\net7.0\appsettings.json
+C:\Users\admor\Desktop\GitHub projects\FutureValueApp mine\FutureValueApp\bin\Debug\net7.0\FutureValueApp.staticwebassets.runtime.json
+C:\Users\admor\Desktop\GitHub projects\FutureValueApp mine\FutureValueApp\bin\Debug\net7.0\FutureValueApp.exe
+C:\Users\admor\Desktop\GitHub projects\FutureValueApp mine\FutureValueApp\bin\Debug\net7.0\FutureValueApp.deps.json
+C:\Users\admor\Desktop\GitHub projects\FutureValueApp mine\FutureValueApp\bin\Debug\net7.0\FutureValueApp.runtimeconfig.json
+C:\Users\admor\Desktop\GitHub projects\FutureValueApp mine\FutureValueApp\bin\Debug\net7.0\FutureValueApp.dll
+C:\Users\admor\Desktop\GitHub projects\FutureValueApp mine\FutureValueApp\bin\Debug\net7.0\FutureValueApp.pdb
+C:\Users\admor\Desktop\GitHub projects\FutureValueApp mine\FutureValueApp\obj\Debug\net7.0\FutureValueApp.csproj.AssemblyReference.cache
+C:\Users\admor\Desktop\GitHub projects\FutureValueApp mine\FutureValueApp\obj\Debug\net7.0\FutureValueApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admor\Desktop\GitHub projects\FutureValueApp mine\FutureValueApp\obj\Debug\net7.0\FutureValueApp.AssemblyInfoInputs.cache
+C:\Users\admor\Desktop\GitHub projects\FutureValueApp mine\FutureValueApp\obj\Debug\net7.0\FutureValueApp.AssemblyInfo.cs
+C:\Users\admor\Desktop\GitHub projects\FutureValueApp mine\FutureValueApp\obj\Debug\net7.0\FutureValueApp.csproj.CoreCompileInputs.cache
+C:\Users\admor\Desktop\GitHub projects\FutureValueApp mine\FutureValueApp\obj\Debug\net7.0\FutureValueApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\admor\Desktop\GitHub projects\FutureValueApp mine\FutureValueApp\obj\Debug\net7.0\FutureValueApp.RazorAssemblyInfo.cache
+C:\Users\admor\Desktop\GitHub projects\FutureValueApp mine\FutureValueApp\obj\Debug\net7.0\FutureValueApp.RazorAssemblyInfo.cs
+C:\Users\admor\Desktop\GitHub projects\FutureValueApp mine\FutureValueApp\obj\Debug\net7.0\staticwebassets\msbuild.FutureValueApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\admor\Desktop\GitHub projects\FutureValueApp mine\FutureValueApp\obj\Debug\net7.0\staticwebassets\msbuild.build.FutureValueApp.props
+C:\Users\admor\Desktop\GitHub projects\FutureValueApp mine\FutureValueApp\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.FutureValueApp.props
+C:\Users\admor\Desktop\GitHub projects\FutureValueApp mine\FutureValueApp\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.FutureValueApp.props
+C:\Users\admor\Desktop\GitHub projects\FutureValueApp mine\FutureValueApp\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\admor\Desktop\GitHub projects\FutureValueApp mine\FutureValueApp\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\admor\Desktop\GitHub projects\FutureValueApp mine\FutureValueApp\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\admor\Desktop\GitHub projects\FutureValueApp mine\FutureValueApp\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\admor\Desktop\GitHub projects\FutureValueApp mine\FutureValueApp\obj\Debug\net7.0\scopedcss\bundle\FutureValueApp.styles.css
+C:\Users\admor\Desktop\GitHub projects\FutureValueApp mine\FutureValueApp\obj\Debug\net7.0\scopedcss\projectbundle\FutureValueApp.bundle.scp.css
+C:\Users\admor\Desktop\GitHub projects\FutureValueApp mine\FutureValueApp\obj\Debug\net7.0\FutureValueApp.dll
+C:\Users\admor\Desktop\GitHub projects\FutureValueApp mine\FutureValueApp\obj\Debug\net7.0\refint\FutureValueApp.dll
+C:\Users\admor\Desktop\GitHub projects\FutureValueApp mine\FutureValueApp\obj\Debug\net7.0\FutureValueApp.pdb
+C:\Users\admor\Desktop\GitHub projects\FutureValueApp mine\FutureValueApp\obj\Debug\net7.0\FutureValueApp.genruntimeconfig.cache
+C:\Users\admor\Desktop\GitHub projects\FutureValueApp mine\FutureValueApp\obj\Debug\net7.0\ref\FutureValueApp.dll
