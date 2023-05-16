@@ -26,7 +26,8 @@ env:
 
 on:
   push:
-    branches: [ "main" ]
+    branches: none
+      # - main
   workflow_dispatch:
 
 permissions:
@@ -35,6 +36,10 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
+    
+    defaults:
+      run:
+        working-directory: FutureValueApp
 
     steps:
       - uses: actions/checkout@v3
@@ -85,4 +90,4 @@ jobs:
         with:
           app-name: ${{ env.AZURE_WEBAPP_NAME }}
           publish-profile: ${{ secrets.AZURE_WEBAPP_PUBLISH_PROFILE }}
-          package: ${{ env.AZURE_WEBAPP_PACKAGE_PATH }}
+          package: .
